@@ -1,0 +1,19 @@
+# Core ML & Data Processing (pinned for deterministic Colab & Streamlit Community Cloud builds)
+numpy==2.5.5
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# Gradient Boosting, Hyperparameter Tuning & Explainability
+lightgbm==4.7.0
+catboost==1.2.10
+optuna==5.1.0
+shap==0.54.1
+
+# Serving & Interactive Dashboard
+streamlit==1.67.0
+plotly==7.2.0
+fastapi==0.165.0
+uvicorn==0.54.0
+pydantic==2.14.4
